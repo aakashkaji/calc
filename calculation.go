@@ -1,4 +1,4 @@
-package factorial
+package calc
 
 import "fmt"
 
